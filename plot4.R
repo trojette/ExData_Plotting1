@@ -97,7 +97,7 @@ with(hpc,
 )
 
 legend("topright",
-       lwd = 1,
+       lwd = 0.5,
        bty = "n",
        col = c("black", "red", "blue"),
        legend = c("Sub_metering_1",
